@@ -1,2 +1,8 @@
-# Conference-Schedule
-A React-based application for managing and displaying conference schedules, providing an intuitive interface for attendees to explore sessions, speakers, and venues. This project utilizes React, Vite, and React Bootstrap for a seamless and responsive user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
