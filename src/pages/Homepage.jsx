@@ -34,6 +34,12 @@ function Homepage() {
           <Button as={Link} to="/conduct">
             Conducts Page
           </Button>
+          <Button as={Link} to="/schedule">
+            Schedule
+          </Button>
+          <Button as={Link} to="/speakers">
+            Speakers
+          </Button>
         </Col>
       </Row>
 
