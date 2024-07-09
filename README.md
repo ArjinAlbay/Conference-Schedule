@@ -28,8 +28,8 @@ A modern conference schedule website built using React and Vite, styled with Rea
 1. **Clone the repository:**
 
    ```bash
-    git clone https://github.com/your-username/Marketing-Website.git
-    cd Marketing-Website
+    git clone https://github.com/ArjinAlbay/Conference-Schedule.git
+    cd Conference-Schedule
 
    ```
 
