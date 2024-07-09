@@ -74,7 +74,7 @@ function Location() {
         </Col>
       </Row>
 
-      <Row>
+      <Row className="mt-auto">
         <Col>
           <Footer />
         </Col>

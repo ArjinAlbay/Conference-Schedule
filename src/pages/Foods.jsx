@@ -35,64 +35,7 @@ function Foods() {
         </Col>
       </Row>
 
-      <Row className="mb-4 justify-content-center">
-        <Col md={5}>
-          <Card>
-            <Card.Body>
-              <Card.Title>Snack Bar</Card.Title>
-              <Card.Text>
-                Grab a quick snack between sessions at our snack bar. Options
-                include sandwiches, salads, fruit, and a selection of beverages.
-              </Card.Text>
-              <Card.Text>
-                <strong>Time:</strong> 10:00 AM - 4:00 PM
-              </Card.Text>
-              <Card.Text>
-                <strong>Location:</strong> Lobby Area
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
-        <Col md={5}>
-          <Card>
-            <Card.Body>
-              <Card.Title>Food Trucks</Card.Title>
-              <Card.Text>
-                Explore a variety of cuisines from local food trucks parked
-                outside the venue. From gourmet burgers to authentic tacos,
-                there's something for everyone.
-              </Card.Text>
-              <Card.Text>
-                <strong>Time:</strong> 11:00 AM - 3:00 PM
-              </Card.Text>
-              <Card.Text>
-                <strong>Location:</strong> Outdoor Courtyard
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
-      </Row>
-
-      <Row className="mb-4 justify-content-center">
-        <Col md={5}>
-          <Card>
-            <Card.Body>
-              <Card.Title>Coffee and Tea Station</Card.Title>
-              <Card.Text>
-                Keep yourself energized with our all-day coffee and tea station.
-                A selection of pastries and snacks will also be available.
-              </Card.Text>
-              <Card.Text>
-                <strong>Time:</strong> 9:00 AM - 5:00 PM
-              </Card.Text>
-              <Card.Text>
-                <strong>Location:</strong> Exhibition Hall
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
-      </Row>
-      <Row>
+      <Row className="mt-auto">
         <Col>
           <Footer />
         </Col>
